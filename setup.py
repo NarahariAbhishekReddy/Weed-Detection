@@ -3,7 +3,7 @@ import os.path as osp
 
 from setuptools import setup
 
-packages = ["dbface", "oak_inference_utils"]
+packages = ["face_detection_adas", "oak_inference_utils"]
 
 package_data = {
     "": ["*"],
@@ -17,9 +17,9 @@ package_dir = {
 extra_requirements = "vis-windows"
 
 setup_kwargs = {
-    "name": "dbface",
-    "version": "0.2.1",
-    "description": "",
+    "name": "face_detection_adas",
+    "version": "0.2.2",
+    "description": "Face detector for driver monitoring and similar scenarios",
     "long_description": None,
     "author": "",
     "author_email": "",
