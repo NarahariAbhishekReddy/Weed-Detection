@@ -101,8 +101,7 @@ With the advancement in artificial intelligence and computer vision, it's possib
     \`\`\`
 5. Create a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
 **Abhishek Reddy Narahari**  
